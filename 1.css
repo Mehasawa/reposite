@@ -1,0 +1,28 @@
+img:hover {
+	border: 8px solid green;
+}
+
+.aaa:hover{
+
+}
+
+.kart{
+	height: 400px;
+}
+
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+table{
+	
+	text-align: center;
+	border-collapse: collapse;
+	background-color: gray;
+}
+
+h1 {
+	color: white;
+}
